@@ -4,6 +4,12 @@
 
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=SWE+Student+%7C+Problem+Solver;Competitive+Programmer+%7C+C%2B%2B+Developer;Python+%7C+JavaScript+Enthusiast;AI+%26+Web+Development+Explorer;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
+<!-- ANIMATION ADDED: waving hand + visitor counter -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand"/>
+  <img src="https://img.shields.io/github/followers/raselhasansabuj?label=Followers&style=for-the-badge&logo=github" alt="Followers"/>
+</p>
+
 
 ---
 
@@ -245,6 +251,24 @@ My learning cycle is:
  ├── Data Structures
  └── Algorithms
 ```
+
+---
+
+<!-- ANIMATION ADDED: GitHub stats section -->
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raselhasansabuj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raselhasansabuj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselhasansabuj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Improve;Keep+Coding.+Keep+Growing.;Every+bug+is+a+lesson." alt="Animated Quote" />
+</p>
 
 ---
 
