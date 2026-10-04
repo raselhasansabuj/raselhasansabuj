@@ -190,7 +190,3 @@ I'm currently working on improving my skills in:
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" alt="Footer"/>
-</p>
