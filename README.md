@@ -13,14 +13,6 @@
 
 ---
 
-## 🚀 About Me
-
-Hi! I'm **Md. Rasel Hasan Sabuj**, a **Software Engineering student at Daffodil International University (DIU)**.
-
-I'm passionate about **programming, problem solving, competitive programming, software development, and emerging technologies**. I enjoy learning by building projects, solving challenging problems, participating in contests, hackathon and experimenting with new technologies.
-
----
-
 ## 👨‍💻 Who Am I?
 
 ```cpp
